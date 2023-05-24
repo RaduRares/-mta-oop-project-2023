@@ -1,0 +1,41 @@
+PC1 (IP: 192.16.0.10) este conectat la Router (IP: 192.16.0.1).
+PC2 (IP: 192.16.0.11) este conectat la Router (IP: 192.16.0.1).
+ PC1(IP : 192.16.0.10)este conectat la Switch.
+Switch este conectat la Router(IP : 192.16.0.11)prin intermediul portului Ethernet.
+PC2(IP: 192.16.0.1) este conectat la Switch.
+Switch-ul faciliteaz? conectivitatea între PC2 ?i Router prin intermediul portului Ethernet.
+Configuratia retelei:
+- Adresa IP a PC1 : 192.16.0.10
+- Adresa IP a PC2 : 192.16.0.11
+- Adresa IP a Routerului : 192.16.0.1
+- Masc? de retea : 255.255.255.0Aceasta configuratie permite rutarea traficului între PC1 ?i PC2 prin intermediul Routerului, permitandu - le sa comunice intre ele si sa acceseze resursele din retea.PC1 (IP: 192.0.1.11) este conectat la Router (IP: 192.0.1.1).
+PC2 (IP: 192.0.1.12) este conectat la Router (IP: 192.0.1.1).
+ PC1(IP : 192.0.1.11)este conectat la Switch.
+Switch este conectat la Router(IP : 192.0.1.12)prin intermediul portului Ethernet.
+PC2(IP: 192.0.1.1) este conectat la Switch.
+Switch-ul faciliteaz? conectivitatea între PC2 ?i Router prin intermediul portului Ethernet.
+Configuratia retelei:
+- Adresa IP a PC1 : 192.0.1.11
+- Adresa IP a PC2 : 192.0.1.12
+- Adresa IP a Routerului : 192.0.1.1
+- Masc? de retea : 255.255.255.0Aceasta configuratie permite rutarea traficului între PC1 ?i PC2 prin intermediul Routerului, permitandu - le sa comunice intre ele si sa acceseze resursele din retea.PC1 (IP: 192.1.0.11) este conectat la Router (IP: 192.1.0.1).
+PC2 (IP: 192.1.0.12) este conectat la Router (IP: 192.1.0.1).
+ PC1(IP : 192.1.0.11)este conectat la Switch.
+Switch este conectat la Router(IP : 192.1.0.12)prin intermediul portului Ethernet.
+PC2(IP: 192.1.0.1) este conectat la Switch.
+Switch-ul faciliteaz? conectivitatea între PC2 ?i Router prin intermediul portului Ethernet.
+Configuratia retelei:
+- Adresa IP a PC1 : 192.1.0.11
+- Adresa IP a PC2 : 192.1.0.12
+- Adresa IP a Routerului : 192.1.0.1
+- Masc? de retea : 255.255.255.0Aceasta configuratie permite rutarea traficului între PC1 ?i PC2 prin intermediul Routerului, permitandu - le sa comunice intre ele si sa acceseze resursele din retea.PC1 (IP: 192.0.1.11) este conectat la Router (IP: 192.0.1.1).
+PC2 (IP: 192.0.1.12) este conectat la Router (IP: 192.0.1.1).
+ PC1(IP : 192.0.1.11)este conectat la Switch.
+Switch este conectat la Router(IP : 192.0.1.12)prin intermediul portului Ethernet.
+PC2(IP: 192.0.1.1) este conectat la Switch.
+Switch-ul faciliteaz? conectivitatea între PC2 ?i Router prin intermediul portului Ethernet.
+Configuratia retelei:
+- Adresa IP a PC1 : 192.0.1.11
+- Adresa IP a PC2 : 192.0.1.12
+- Adresa IP a Routerului : 192.0.1.1
+- Masc? de retea : 255.255.255.0Aceasta configuratie permite rutarea traficului între PC1 ?i PC2 prin intermediul Routerului, permitandu - le sa comunice intre ele si sa acceseze resursele din retea.
