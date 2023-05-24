@@ -251,7 +251,7 @@ void MainFrame::CheckAdmin(wxCommandEvent& event)
         string line;
         string message;
         while (std::getline(inputFile, line)) {
-            message = message + line+' + ';
+            message = message + line+' ';
           
         }  wxMessageBox(message);
     }
